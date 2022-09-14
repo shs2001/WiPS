@@ -15,4 +15,7 @@
  - Open Powershell window here
  - type ```attrib -s -r -h wifi```
  
-After following those command you will see a folder
+After following those command you will see a folder on your pendrive 
+The folder name is ``wifi``
+
+## Enjoy
